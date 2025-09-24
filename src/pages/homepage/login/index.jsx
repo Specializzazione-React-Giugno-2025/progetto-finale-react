@@ -1,6 +1,6 @@
 import { usestate } from "react";
 import { useNavigate } from "react-router";
-import supabase from "../../supbase/supabase-client";
+import supabase from "../../supabase/supabase-client";
 import {
     ConfirmSchemaLogin,
     getErrors,

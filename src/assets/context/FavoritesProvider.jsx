@@ -1,5 +1,5 @@
 import { useState, useEffect, useContext, useCallback } from "react";
-import supabase from "../supabase/supabase-client";
+import supabase from "../../supabase/supabase-client";
 import SessionContext from "./SessionContext";
 import FavoritesContext from "./FavoritesContext";
 
